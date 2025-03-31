@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aeriel-3
 - 👀 I’m interested in computerscience
-- 🌱 I havw successfully completed cs50x
+- 🌱 I have successfully completed cs50x
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me: ariolodin@gmail.com
 - 😄 Pronouns: ...
